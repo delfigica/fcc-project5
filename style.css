@@ -82,14 +82,14 @@ h3 {
   text-align: center;
   font-family: "Candal", sans-serif;
 }
-.project-title {
+.project-tile {
   text-align: center;
 }
-.project-title:hover::before {
+.project-tile:hover::before {
   content: "< ";
   color: rgb(153, 94, 94);
 }
-.project-title:hover:after {
+.project-tile:hover:after {
   content: " />";
   color: rgb(153, 94, 94);
 }
